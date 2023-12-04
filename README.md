@@ -1,11 +1,16 @@
 # Portfolio
 Menu things
-  1. Presentations
-  2. Coding Projects (use details to do dropdown and attach using links to homepages, if homepage)
-    a. encryption code
-    b. mini project website code
+  1. Presentations (link but look for other, better ways to attach them to the website)
+    a. Chat GPT
+    b. Insertion sort
+  3. Coding Projects (use details to do dropdown and attach using links to homepages, if homepage)
+    a. Encryption code
+    b. Mini Project Website code
+    c. Tutorials Website code
   4. Certificates
+    a. Python certificate
+    b. SQL certificate
   5. Other
-    a. grades
-    b. mimo streak
-    c. duo streak
+    a. Grades from HPMS
+    b. Mimo streak
+    c. Duolingo streak
