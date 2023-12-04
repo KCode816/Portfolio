@@ -1,5 +1,5 @@
 # Portfolio
-Menu things
+<b>Menu things</b>
   1. Presentations (link but look for other, better ways to attach them to the website)<br>
     a. Chat GPT<br>
     b. Insertion sort<br>
@@ -11,6 +11,6 @@ Menu things
     a. Python certificate<br>
     b. SQL certificate<br>
   5. Other<br>
-    a. Grades from HPMS<br>
+    a. Grades from HPMS (code a table instead of attaching them as an image or link)<br>
     b. Mimo streak<br>
     c. Duolingo streak<br>
