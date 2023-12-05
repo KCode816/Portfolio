@@ -3,6 +3,19 @@ header{
     color: black;
 }
 
+main{
+    background-color: #FFF2CC;
+}
+
+footer{
+    color: #B5DAFF;
+}
+
+
+
+
+
+
 
 .dropbtn {
     background-color: #441add;
